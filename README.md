@@ -3,7 +3,7 @@
 
 ```
 1.简单的GET/POST请求处理，错误页面定制
-2.SqlLite增删查改
+2.SQLite增删查改
 3.Mysql增删查改
 4.文件上传
 5.发送email
