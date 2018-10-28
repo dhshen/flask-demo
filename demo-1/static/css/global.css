@@ -1,0 +1,22 @@
+body{
+    padding:0;
+    margin:0;
+}
+.header{
+    margin:0;
+    width:100%;
+    height:60px;
+    background: rgba(0,0,0,.5);
+    line-height:60px;
+}
+.header ul{
+    display: flex;
+    margin:0;
+    padding:0;
+    justify-content: space-around;
+}
+
+.header ul li{
+    list-style: none;
+    color: #ffffff;
+}
